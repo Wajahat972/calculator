@@ -1,0 +1,28 @@
+.body{
+    background-color: aqua;
+}
+.h1{
+    text-align:center;
+    color:rgb(12, 2, 17);
+    font-family: 'Tangerine', serif;
+    font-size: 88px;
+    text-shadow: 5px 5px 5px #aaa;
+
+}
+.color{
+    background-color: dodgerblue;
+}
+*{
+    box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+}
+.wrap{
+    width:300px;
+    margin:auto;
+    height:auto;
+    background:black;
+    padding:50px;
+    text-align: center;
+    
+}
